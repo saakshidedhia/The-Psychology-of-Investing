@@ -429,8 +429,7 @@ Dedhia, S. (2023). Effect of Behavioural Biases on Investor's Decision Making:
 A Study of Indian Companies. Bachelor's Thesis, Mithibai College of Arts, 
 Mumbai, India.
 ```
-
-<div align="center">
+---
 
 ### ⭐ Found this research helpful? Share it with others interested in behavioral finance!
 
