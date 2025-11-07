@@ -7,13 +7,13 @@
 
 ### *Understanding the Psychology Behind Investment Decisions in Indian Securities Market*
 
-**📊 92 Respondents | 💡 7 Behavioral Biases
+📊 92 Respondents | 💡 7 Behavioral Biases
 
 ---
 
 ~ Independent Research by Saakshi Dedhia 
 
-[📄 View Full Paper](#) 
+[📄 View Full Paper](https://drive.google.com/file/d/1rlRXjTqok3UZdrDEgnYzzftjcDBT62cE/view) 
 
 </div>
 
