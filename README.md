@@ -425,9 +425,7 @@ Feel free to reach out or build upon these findings!
 
 If you use this research, please cite as:
 ```
-Dedhia, S. (2023). Effect of Behavioural Biases on Investor's Decision Making: 
-A Study of Indian Companies. Bachelor's Thesis, Mithibai College of Arts, 
-Mumbai, India.
+Dedhia, S. (2023). Effect of Behavioural Biases on Investor's Decision Making: A Study of Indian Companies.
 ```
 ---
 
