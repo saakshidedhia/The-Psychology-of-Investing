@@ -1,21 +1,19 @@
-# 🧠 Effect of Behavioural Biases on Investor's Decision Making
+# 🧠 Research Paper - Effect of Behavioural Biases on Investor's Decision Making
 
 <div align="center">
 
-![Research Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Research Type](https://img.shields.io/badge/Research-Independent%20Study-blue?style=for-the-badge)
 ![Academic Year](https://img.shields.io/badge/Year-2022--2023-orange?style=for-the-badge)
 
 ### *Understanding the Psychology Behind Investment Decisions in Indian Securities Market*
 
-**📊 92 Respondents | 💡 7 Behavioral Biases | 📈 Actionable Insights**
+**📊 92 Respondents | 💡 7 Behavioral Biases
 
 ---
 
-**Author:** Saakshi Dedhia | **Institution:** Mithibai College (Autonomous)  
-**Supervisor:** Prof. Gorkhnath Uttekar | **Degree:** B.A. Economics (Semester VI)
+~ Independent Research by Saakshi Dedhia 
 
-[📄 View Full Paper](#) • [📊 Key Findings](#key-research-findings) • [🎯 Recommendations](#recommendations) • [📚 References](#references)
+[📄 View Full Paper](#) 
 
 </div>
 
@@ -49,10 +47,6 @@ In the rapidly evolving Indian securities market, understanding **why** investor
 ---
 
 ## 🔍 Abstract
-
-<div align="center">
-
-### **The Hidden Forces Behind Investment Decisions**
 
 </div>
 
@@ -255,7 +249,7 @@ graph LR
 
 ### 📈 Finding #4: Investment Behavior Patterns
 
-<div align="center">
+<div>
 
 **Top 3 Information Sources:**
 1. 🔍 Personal Research (75%)
@@ -443,35 +437,6 @@ If you use this research, please cite as:
 }
 ```
 
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-**This research wouldn't be possible without:**
-
-👨‍🏫 **Prof. Gorkhnath Uttekar** - Research Supervisor  
-📚 **Ms. Archana Garate** - College Librarian  
-👥 **92 Survey Respondents** - For their valuable time and honest responses  
-❤️ **Family & Friends** - For unwavering support
-
-</div>
-
----
-
-### 📊 Research Status
-
-![Data Collection](https://img.shields.io/badge/Data%20Collection-Complete-success)
-![Analysis](https://img.shields.io/badge/Analysis-Complete-success)
-![Peer Review](https://img.shields.io/badge/Peer%20Review-Approved-success)
-![Documentation](https://img.shields.io/badge/Documentation-Complete-success)
-
----
-
-**Made with 💙 and 📊 by Saakshi Dedhia**
-
-*Understanding investor psychology, one bias at a time.*
 
 </div>
 
