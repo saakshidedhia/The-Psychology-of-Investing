@@ -370,58 +370,6 @@ Result: ✅ H₀ REJECTED
 Conclusion: Financial literacy DOES significantly influence decisions
 ```
 
----
-
-## 🚀 Future Research Directions
-
-### 🌍 Geographic Expansion
-- [ ] State-level studies across India
-- [ ] National comprehensive survey
-- [ ] International comparative analysis
-- [ ] Rural vs Urban investor comparison
-
-### 🧪 Deeper Analysis
-- [ ] Institutional investors study
-- [ ] Cognitive vs Emotional bias comparison
-- [ ] Longitudinal behavioral tracking
-- [ ] Impact on specific market indicators (P/E, moving averages)
-
-### 📊 Advanced Methodologies
-- [ ] Secondary data analysis from exchanges
-- [ ] AI/ML prediction models
-- [ ] Real-time behavioral tracking
-- [ ] Experimental economics approaches
-
----
-
-## 📚 How to Use This Research
-
-### 👨‍🎓 For Students
-- 📖 Understand behavioral finance principles
-- 🎯 Learn about research methodology
-- 📊 Reference for your own studies
-- 💡 Foundation for advanced research
-
-### 💼 For Investors
-- 🧠 Identify your own biases
-- 🛡️ Develop mitigation strategies
-- 📈 Improve investment performance
-- 🎯 Make more rational decisions
-
-### 👔 For Financial Advisors
-- 🤝 Better understand client psychology
-- 🎯 Design bias-aware strategies
-- 📊 Improve client outcomes
-- 🏆 Differentiate your services
-
-### 🏛️ For Policymakers
-- 📖 Design financial literacy programs
-- 🛡️ Create investor protection mechanisms
-- 📊 Understand market dynamics
-- 🎯 Evidence-based policy making
-
----
-
 ## 📊 Key Statistics at a Glance
 
 <div align="center">
@@ -509,16 +457,6 @@ If you use this research, please cite as:
 ❤️ **Family & Friends** - For unwavering support
 
 </div>
-
----
-
-## 📞 Connect & Learn More
-
-<div align="center">
-
-**Institution:** Mithibai College (Autonomous)  
-**Department:** Economics  
-**Location:** Mumbai, India
 
 ---
 
