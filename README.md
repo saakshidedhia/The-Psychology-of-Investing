@@ -424,23 +424,11 @@ Feel free to reach out or build upon these findings!
 ## 📜 Citation
 
 If you use this research, please cite as:
-
-```bibtex
-@thesis{dedhia2023behavioral,
-  author = {Dedhia, Saakshi},
-  title = {Effect of Behavioural Biases on Investor's Decision Making},
-  school = {Mithibai College (Autonomous)},
-  year = {2023},
-  type = {Bachelor's Thesis},
-  department = {Department of Economics},
-  supervisor = {Uttekar, Gorkhnath}
-}
 ```
-
-
-</div>
-
----
+Dedhia, S. (2023). Effect of Behavioural Biases on Investor's Decision Making: 
+A Study of Indian Companies. Bachelor's Thesis, Mithibai College of Arts, 
+Mumbai, India.
+```
 
 <div align="center">
 
